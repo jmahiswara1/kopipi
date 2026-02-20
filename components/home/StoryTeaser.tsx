@@ -58,7 +58,7 @@ export default function StoryTeaser() {
                     <div className="w-full md:w-1/2 order-1 md:order-2 relative aspect-[3/4] md:aspect-[4/5] overflow-hidden rounded-lg">
                         <div ref={imageRef} className="absolute inset-0 -top-[10%] -bottom-[10%] w-full h-[120%]">
                             <Image
-                                src="https://images.unsplash.com/photo-1497935586351-b67a49e012bf?q=80&w=1000&auto=format&fit=crop"
+                                src="https://images.unsplash.com/photo-1762265687611-a6cd23ca8fcf?q=80&w=1000&auto=format&fit=crop"
                                 alt="Barista brewing coffee"
                                 fill
                                 className="object-cover"

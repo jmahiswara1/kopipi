@@ -88,7 +88,7 @@ export default function ContactSection() {
                                     id="name"
                                     required
                                     className="w-full bg-dark/50 border border-white/10 rounded-lg px-4 py-3 text-cream focus:outline-none focus:border-tobacco focus:ring-1 focus:ring-tobacco transition-all"
-                                    placeholder="Nama Lengkap Anda"
+                                    placeholder="Masukkan Nama"
                                 />
                             </div>
                             <div>
@@ -108,7 +108,7 @@ export default function ContactSection() {
                                     id="subject"
                                     required
                                     className="w-full bg-dark/50 border border-white/10 rounded-lg px-4 py-3 text-cream focus:outline-none focus:border-tobacco focus:ring-1 focus:ring-tobacco transition-all"
-                                    placeholder="Halo Kopipi! Saya ingin..."
+                                    placeholder="Masukkan Subjek"
                                 />
                             </div>
                             <div>

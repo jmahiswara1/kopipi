@@ -135,7 +135,7 @@ export const branches: Branch[] = [
             weekend: '07:00 – 23:00'
         },
         mapThumbnail: 'https://images.unsplash.com/photo-1497292403196-691552684048?q=80&w=1000&auto=format&fit=crop',
-        heroImage: 'https://images.unsplash.com/photo-1469334031218-e382a71b716b?q=80&w=1000&auto=format&fit=crop',
+        heroImage: 'https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=1000&auto=format&fit=crop',
         peakHours: [
             { hour: '08:00', visitors: 40 },
             { hour: '10:00', visitors: 70 },
