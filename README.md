@@ -1,9 +1,9 @@
 # Kopipi
 
 ## Deskripsi
-Kopipi adalah sebuah website company profile dan reservasi untuk kedai kopi yang mengusung konsep hangat dan klasik. Website ini dirancang untuk memberikan pengalaman digital yang selaras dengan suasana kedai, menampilkan menu, lokasi cabang, cerita perjalanan bisnis, dan fitur reservasi meja atau ruang meeting.
+Kopipi adalah sebuah website company profile dan reservasi untuk kedai kopi yang mengusung konsep hangat dan klasik. Website ini dirancang untuk memberikan pengalaman digital yang selaras dengan suasana kedai, menampilkan menu, lokasi cabang, cerita perjalanan bisnis, dan fitur reservasi meja atau ruang meeting. Proyek ini dibangun dengan fokus pada tampilan antarmuka yang modern, animasi yang halus, dan responsivitas penuh untuk berbagai perangkat.
 
-Proyek ini dibangun dengan fokus pada tampilan antarmuka yang modern, animasi yang halus, dan responsivitas penuh untuk berbagai perangkat.
+> **Portfolio Note:** Proyek ini adalah sebuah **Studi Kasus & Proyek Portofolio** untuk mendemonstrasikan kemampuan pengembangan *frontend* modern. Ini bukan layanan bisnis operasional yang asli.
 
 ## Teknologi yang Digunakan
 Proyek ini dikembangkan menggunakan teknologi berikut:
